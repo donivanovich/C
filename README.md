@@ -24,6 +24,13 @@ Puedes descargar la versión recomendada desde el siguiente enlace:
 
 ---
 
+> [!WARNING]
+> ⚠️ Este repositorio forma parte de un trabajo académico/práctico.  
+> Algunos proyectos pueden estar **en desarrollo**, **incompletos** o contener **errores de compilación**.  
+> Se recomienda revisar y probar cada proyecto antes de utilizarlos como referencia.
+
+---
+
 ## ▶️ Ejecución
 
 1. Clona este repositorio:
