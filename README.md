@@ -16,7 +16,7 @@ Para compilar y ejecutar los programas se recomienda:
 
 ---
 
-## 🔗 Descargar Dev-C++ 5.10 con TDM-GCC 4.8.1 (64-bit)
+## 🔗 Descargar Dev-C++ 5.10
 
 Puedes descargar la versión recomendada desde el siguiente enlace:
 
@@ -28,4 +28,4 @@ Puedes descargar la versión recomendada desde el siguiente enlace:
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/usuario/repositorio.git
+   git clone https://github.com/donivanovich/c.git
