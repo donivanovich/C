@@ -1,7 +1,4 @@
-# Forzar a GitHub Linguist a reconocer todos los archivos como C
 * linguist-language=C
-
-# Ignorar archivos que no deberían contar como código
 *.md linguist-documentation
 *.txt linguist-documentation
 *.json linguist-vendored
